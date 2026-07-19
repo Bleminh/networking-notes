@@ -1,0 +1,27 @@
+- Lesson 1: Network Devices
+- Host: Any device that sends or receives traffic.
+- 2 types: Client and server
+- Client initiates request, server responds.
+- Relative to specific relationship. One can be a client or a server depending on the relationship.
+- Servers are simply device with the specific software capable of responding to the specific requests. So almost any device can be a server.
+- IP Address: The identity of each host (~CCCD).
+- The IP addresses of the sender and receiver are "stamped" into each request or respond.
+- 32 bits, grouped into groups of 4 => decimal from 0->255.
+- Hierarchically assigned (được phân cấp. VD: 1 công ty đa quốc gia phân ra các đơn vị theo địa lý, mỗi đơn vị có các bộ phận...)
+- Network: what transports traffic between hosts. 2 hosts are connected -> network.
+- Usually a logical grouping of hosts which require similar connectivity. Example: Home wifi, coffee shop...
+- A network can contain other network, called a subnet.
+- Internet is basically the interconnection between multiple networks.
+- Repeater regens signals (Signals decay as they travel in long distances).
+- Hubs = multi-port repeaters. Problem: Everyone receives every data - you don't want that.
+- Bridges: the midlle between hub-connected hosts. It knows which hosts are on which side. So if 2 hosts are on the same side, the other side doesn't receive the signal.
+- Switch: multiple ports. Learns which hosts are on EACH PORT.
+- Router: facilitates communication between networks.
+- Provides a traffic control point (security, filtering, redirecting)
+- Routers learn which networks they are attached to (known as routes - stored in a routing table)
+- Routers have IP addresses in every network they're attached to -> serves as a gateway (each host's way out of their local network).
+- Routers create the Hierarchy in Networks and the entire Internet.
+-> The Internet is literally a bunch of routers.
+- Key difference:
++ Routers facilitate communication between networks.
++ Switch facilitate communication within a network (between hosts).
