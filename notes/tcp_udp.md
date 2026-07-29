@@ -1,5 +1,3 @@
-21/07/2026
-
 TCP VS UDP:
 TCP:
 - Connection Oriented. Official "start" and "end".

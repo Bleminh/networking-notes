@@ -1,4 +1,3 @@
-25/07/2026
 TCP:
 - Sequence Numbers: track what is sent
 - Acknowledgement Numbers: track what is received

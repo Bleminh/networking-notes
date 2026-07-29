@@ -1,4 +1,4 @@
-- Lesson 1: Network Devices
+Network Devices
 - Host: Any device that sends or receives traffic.
 - 2 types: Client and server
 - Client initiates request, server responds.
