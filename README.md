@@ -16,22 +16,22 @@ Technical notes tracking my understanding of network engineering, protocols, and
 ## 📚 Topic Index
 
 ### 1. Architecture & The Big Picture
-* [The OSI Model](./osi_model.md)
-* [The Flow: From DNS to Page Render](./the_flow.md)
-* [Network Devices (Routers, Switches, etc.)](./network_devices.md)
-* [Subnetting Basics](./subnetting.md)
+* [The OSI Model](./notes/osi_model.md)
+* [The Flow: From DNS to Page Render](./notes/the_flow.md)
+* [Network Devices (Routers, Switches, etc.)](./notes/network_devices.md)
+* [Subnetting Basics](./notes/subnetting.md)
 
 ### 2. Transport & Network Layers (TCP/IP)
-* [TCP vs. UDP](./tcp_udp.md)
-* [Public vs. Private IP Addresses](./public_private.md)
-* [Ports & Sockets](./ports.md)
-* [TCP & ARP Interactions](./tcp_arp.md)
+* [TCP vs. UDP](./notes/tcp_udp.md)
+* [Public vs. Private IP Addresses](./notes/public_private.md)
+* [Ports & Sockets](./notes/ports.md)
+* [TCP & ARP Interactions](./notes/tcp_arp.md)
 
 ### 3. Application Layer & Security
-* [DNS (Domain Name System)](./dns.md)
-* [HTTP / HTTPS](./http.md)
-* [TLS & Encryption](./tls.md)
-* [General Application Protocols](./protocols.md)
+* [DNS (Domain Name System)](./notes/dns.md)
+* [HTTP / HTTPS](./notes/http.md)
+* [TLS & Encryption](./notes/tls.md)
+* [General Application Protocols](./notes/protocols.md)
 
 ### 4. Packet Analysis
-* [Wireshark Observations](./wireshark.md)
+* [Wireshark Observations](./notes/wireshark.md)
